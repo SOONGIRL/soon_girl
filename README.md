@@ -32,8 +32,8 @@ Market Cap Milestone Airdrops:
 3. Seamless token payment system
 
 ### Technical Framework
-- Dialogue Engine: Eliza
-- Voice Synthesis: Elevenlabs
+- Dialogue Engine: ELIZA
+- Voice Synthesis: ElevenLabs
 - AI Response Limit: Max 5 sentences per interaction
 - Service Duration: 5 minutes/unit
 
