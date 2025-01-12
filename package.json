@@ -1,6 +1,9 @@
 {
   "license": "ISC",  
   "scripts": {
+    //"build": "anchor build",
+    //"test": "anchor test",
+    //This makes it easy to compile and test a project with a single command in CI/CD or local development.
     "lint:fix": "prettier */*.js \"*/**/*{.js,.ts}\" -w",
     "lint": "prettier */*.js \"*/**/*{.js,.ts}\" --check"
   },
